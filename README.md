@@ -1,5 +1,9 @@
 # Udacity_DataAnalyst
-This repo is for Udacity's Data Analyst Nanodegree
+
+
+## About:
+In this program we learn the skills required to organise data, uncover patterns and insights, draw meaningful conclusions and communicate critical findings. We accomplish this using Python (along with Numpy, Pandas, Matplotlib) and SQL.
+
 
 ## Project 01 - Global Weather Trends 
  In this project, I have analysed local and global temperature data and compared the temperature trends with where I live to overall global   temperatures
