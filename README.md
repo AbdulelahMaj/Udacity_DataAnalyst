@@ -1,7 +1,7 @@
 # Udacity_DataAnalyst
 
 
-## About:
+## About
 In this program we learn the skills required to organise data, uncover patterns and insights, draw meaningful conclusions and communicate critical findings. We accomplish this using Python (along with Numpy, Pandas, Matplotlib) and SQL.
 
 
@@ -35,7 +35,7 @@ borrower rate (or interest rate), current loan status, borrower income, and many
 This [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing) explains the 
 variables in the data set. The project objective is not expected to explore all of the variables in the dataset! But focus on only exploration on about 10-15 of them.
 
-## Tools:
+## Tools
 - Jupyter notebook
 - Pandas
 - Numpy
